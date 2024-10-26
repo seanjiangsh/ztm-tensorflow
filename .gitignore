@@ -6,3 +6,6 @@ venv/
 
 # Tensorflow logs
 logs/
+
+# saved models
+saved_models/

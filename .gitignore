@@ -12,3 +12,6 @@ dev/
 
 # saved models
 saved_models/
+
+# image data
+/data/image_data

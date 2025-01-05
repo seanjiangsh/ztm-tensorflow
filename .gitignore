@@ -6,6 +6,7 @@ venv/
 
 # Tensorflow logs
 logs/
+tensorflow_hub/
 
 # Development temp files
 dev/

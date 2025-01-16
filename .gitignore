@@ -11,6 +11,10 @@ tensorflow_hub/
 # Development temp files
 dev/
 
+# Python cache
+__pycache__/
+.pyc
+
 # saved models
 saved_models/
 
